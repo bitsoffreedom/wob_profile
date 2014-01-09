@@ -1,0 +1,27 @@
+name = W0bw0b
+description = Profile for a default installation for w0bw0b
+version = VERSION
+core = 7.x
+
+dependencies[] = ctools
+dependencies[] = cck
+dependencies[] = ckeditor
+dependencies[] = conditional_fields
+dependencies[] = custom_formatters
+dependencies[] = date
+dependencies[] = devel
+dependencies[] = ds
+dependencies[] = entity
+dependencies[] = features
+dependencies[] = field_collection
+dependencies[] = field_group
+dependencies[] = i18n
+dependencies[] = l10n_update
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = variable
+dependencies[] = views
+dependencies[] = computed_field
+dependencies[] = calculated_field
+dependencies[] = wob
+dependencies[] = wob_instellingen
