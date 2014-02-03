@@ -17,6 +17,7 @@ dependencies[] = field_collection
 dependencies[] = field_group
 dependencies[] = i18n
 dependencies[] = l10n_update
+dependencies[] = taxonomy
 dependencies[] = pathauto
 dependencies[] = token
 dependencies[] = variable
