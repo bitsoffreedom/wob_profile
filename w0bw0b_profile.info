@@ -12,6 +12,7 @@ dependencies[] = date
 dependencies[] = devel
 dependencies[] = ds
 dependencies[] = entity
+dependencies[] = boolean
 dependencies[] = number
 dependencies[] = features
 dependencies[] = field_collection
