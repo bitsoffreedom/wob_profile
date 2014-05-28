@@ -1,6 +1,5 @@
 name = W0bw0b
 description = Profile for a default installation for w0bw0b
-version = VERSION
 core = 7.x
 
 dependencies[] = block
