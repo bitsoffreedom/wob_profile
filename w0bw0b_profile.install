@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Implements hook_install().
+ */
 function w0bw0b_profile_install() {
   // Add text formats.
   $filtered_html_format = array(
